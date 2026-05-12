@@ -18,3 +18,6 @@ README.md: Documentação técnica e visão executiva do projeto.
 
 ⚖️ Créditos e Ética Profissional
 Este trabalho é fruto de uma colaboração em grupo. Mantive os créditos originais no notebook para honrar a participação das cientistas de dados Andressa Corrêa, Bárbara Madera e Amanda Lacerda. Esta versão no meu perfil pessoal foca na documentação técnica do pipeline sob a minha perspectiva profissional.
+
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
